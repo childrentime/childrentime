@@ -3,7 +3,6 @@
 I am **childrentime**
 
 - 🌱 I’m currently learning anything related to frontend.
-- 👯 I’m looking to collaborate on lexical.
 - 🤔 I’m looking for help with improving my English.
 - 📫 How to reach me: <wul55267@gmail.com>
 - ⚡ Fun fact: I am very active on GitHub.
