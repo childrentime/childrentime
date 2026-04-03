@@ -51,10 +51,10 @@
 | [**React**](https://github.com/facebook/react) `⭐ 236k` | Chinese documentation translation |
 | [**xterm.js**](https://github.com/xtermjs/xterm.js) `⭐ 18k` | Replaced getOption/setOption API, fixed marker offset |
 | [**Immer**](https://github.com/immerjs/immer) `⭐ 28k` | Chinese documentation translation |
-| [**Arco Design Mobile**](https://github.com/arco-design/arco-design-mobile) | Fixed Ellipsis reflow bug |
-| [**Rspress**](https://github.com/web-infra-dev/rspress) | Custom home footer feature |
-| [**React Live**](https://github.com/FormidableLabs/react-live) | Fixed wrapReturn transform |
-| [**DefinitelyTyped**](https://github.com/DefinitelyTyped/DefinitelyTyped) | Added Node.js net entryType |
+| [**Arco Design Mobile**](https://github.com/arco-design/arco-design-mobile) `⭐ 492` | Fixed Ellipsis reflow bug |
+| [**Rspress**](https://github.com/web-infra-dev/rspress) `⭐ 2.2k` | Custom home footer feature |
+| [**React Live**](https://github.com/FormidableLabs/react-live) `⭐ 4.6k` | Fixed wrapReturn transform |
+| [**DefinitelyTyped**](https://github.com/DefinitelyTyped/DefinitelyTyped) `⭐ 51k` | Added Node.js net entryType |
 
 ---
 
