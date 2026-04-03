@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Berlin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=H5%20Craftsperson%20%C2%B7%20Open%20Source%20Wanderer%20%C2%B7%20Curiosity-Driven&descSize=15&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/childrentime">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&repeat=true&width=550&height=50&lines=%E4%B8%8A%E6%B5%B7+%C2%B7+31.23%C2%B0N+121.47%C2%B0E;Be+Positive+%F0%9F%98%98;%ED%95%9C%EA%B5%AD%EC%96%B4+%EA%B3%B5%EB%B6%80+%EC%A4%91...+%F0%9F%87%B0%F0%9F%87%B7;Balatro+seed+%233721...+interesting+%F0%9F%83%8F;git+push+origin+main+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&repeat=true&width=550&height=50&lines=%E4%B8%8A%E6%B5%B7+%C2%B7+31.23%C2%B0N+121.47%C2%B0E;Be+Positive+%F0%9F%98%98;%ED%95%9C%EA%B5%AD%EC%96%B4+%EA%B3%B5%EB%B6%80+%EC%A4%91...+%F0%9F%87%B0%F0%9F%87%B7;Digital+%E6%A5%9A%E6%B2%B3%E6%B1%89%E7%95%8C+%E2%99%9F%EF%B8%8F;git+push+origin+main+%E2%9C%A8" />
 </a>
 
 </div>
@@ -34,7 +34,6 @@
 │  TypeScript            ████████████████░░░░  82  📝   │
 │  Open Source           ██████████████████░░  90  🌱   │
 │  Korean                ████░░░░░░░░░░░░░░░░  22  🇰🇷   │
-│  Balatro Win Rate      ██████████████░░░░░░  68  🃏   │
 │                                                        │
 │  ⚠️  WARNING: Coffee dependency detected               │
 │                                                        │
@@ -95,17 +94,11 @@ Because if you can't measure it, does it even exist?
 > *The part that doesn't show up on a resume.*
 
 ```
- 🃏  Balatro — Built "TheSoul", a seed analyzer.
-     Because winning is fun, but understanding WHY you won is better.
-
  ♟️  Chinese Chess — Built my own version.
      Digital 楚河汉界, one commit at a time.
 
  🇰🇷  Korean — 한국어 공부 중...
      Repo exists. Progress is... aspirational.
-
- 🎫  Concerts — Once forked a 大麦 ticket grabber.
-     The real boss fight isn't algorithms, it's getting concert tickets in China.
 
  💧  Water — Built a reminder app for myself.
      Because I'll mass-deploy an npm package before I remember to hydrate.
