@@ -89,30 +89,9 @@ Because if you can't measure it, does it even exist?
 
 ---
 
-## 🌙 AFTER HOURS
-
-> *The part that doesn't show up on a resume.*
-
-```
- ♟️  Chinese Chess — Built my own version.
-     Digital 楚河汉界, one commit at a time.
-
- 🇰🇷  Korean — 한국어 공부 중...
-     Repo exists. Progress is... aspirational.
-
- 💧  Water — Built a reminder app for myself.
-     Because I'll mass-deploy an npm package before I remember to hydrate.
-
- 🍎  liquid-glass — Recreated Apple's liquid glass effect.
-     Some people collect stamps. I collect CSS experiments.
-```
-
----
-
 ## 📊 STATS
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=childrentime&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=childrentime&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
 </div>
 
@@ -125,14 +104,6 @@ Because if you can't measure it, does it even exist?
 ---
 
 <div align="center">
-
-```
- "I'll mass-deploy an npm package before
-  I remember to drink water."
-                              — Berlin, daily
-```
-
-<br/>
 
 📫 [wul55267@gmail.com](mailto:wul55267@gmail.com) · Shanghai, China
 
