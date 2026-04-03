@@ -48,9 +48,9 @@
 
 | Project | What I Did |
 |---------|-----------|
-| [**React**](https://github.com/facebook/react) `⭐ 236k` | Chinese documentation translation |
+| [**Immer**](https://github.com/immerjs/immer) `⭐ 28k` | **Pioneered the entire Chinese documentation** — wrote it from scratch |
 | [**xterm.js**](https://github.com/xtermjs/xterm.js) `⭐ 18k` | Replaced getOption/setOption API, fixed marker offset |
-| [**Immer**](https://github.com/immerjs/immer) `⭐ 28k` | Chinese documentation translation |
+| [**React**](https://github.com/facebook/react) `⭐ 236k` | Translated part of the Chinese docs |
 | [**Arco Design Mobile**](https://github.com/arco-design/arco-design-mobile) `⭐ 492` | Fixed Ellipsis reflow bug |
 | [**Rspress**](https://github.com/web-infra-dev/rspress) `⭐ 2.2k` | Custom home footer feature |
 | [**React Live**](https://github.com/FormidableLabs/react-live) `⭐ 4.6k` | Fixed wrapReturn transform |
