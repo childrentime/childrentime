@@ -48,13 +48,13 @@
 
 | Project | What I Did |
 |---------|-----------|
-| [**Immer**](https://github.com/immerjs/immer) `⭐ 28k` | **Pioneered the entire Chinese documentation** — wrote it from scratch |
-| [**xterm.js**](https://github.com/xtermjs/xterm.js) `⭐ 18k` | Replaced getOption/setOption API, fixed marker offset |
-| [**React**](https://github.com/facebook/react) `⭐ 236k` | Translated part of the Chinese docs |
-| [**Arco Design Mobile**](https://github.com/arco-design/arco-design-mobile) `⭐ 492` | Fixed Ellipsis reflow bug |
-| [**Rspress**](https://github.com/web-infra-dev/rspress) `⭐ 2.2k` | Custom home footer feature |
-| [**React Live**](https://github.com/FormidableLabs/react-live) `⭐ 4.6k` | Fixed wrapReturn transform |
-| [**DefinitelyTyped**](https://github.com/DefinitelyTyped/DefinitelyTyped) `⭐ 51k` | Added Node.js net entryType |
+| [**Immer**](https://github.com/immerjs/immer) <img src="https://img.shields.io/github/stars/immerjs/immer?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | **Pioneered the entire Chinese documentation** — wrote it from scratch |
+| [**xterm.js**](https://github.com/xtermjs/xterm.js) <img src="https://img.shields.io/github/stars/xtermjs/xterm.js?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Replaced getOption/setOption API, fixed marker offset |
+| [**React**](https://github.com/facebook/react) <img src="https://img.shields.io/github/stars/facebook/react?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Translated part of the Chinese docs |
+| [**Arco Design Mobile**](https://github.com/arco-design/arco-design-mobile) <img src="https://img.shields.io/github/stars/arco-design/arco-design-mobile?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Fixed Ellipsis reflow bug |
+| [**Rspress**](https://github.com/web-infra-dev/rspress) <img src="https://img.shields.io/github/stars/web-infra-dev/rspress?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Custom home footer feature |
+| [**React Live**](https://github.com/FormidableLabs/react-live) <img src="https://img.shields.io/github/stars/FormidableLabs/react-live?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Fixed wrapReturn transform |
+| [**DefinitelyTyped**](https://github.com/DefinitelyTyped/DefinitelyTyped) <img src="https://img.shields.io/github/stars/DefinitelyTyped/DefinitelyTyped?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Added Node.js net entryType |
 
 ---
 
@@ -64,19 +64,19 @@
 <tr>
 <td width="50%" valign="top">
 
-### [reactuse](https://github.com/childrentime/reactuse) `⭐ 966`
+### [reactuse](https://github.com/childrentime/reactuse) <img src="https://img.shields.io/github/stars/childrentime/reactuse?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle">
 > *115+ React Hooks. The whole kitchen sink, but type-safe and tree-shakable.*
 
 SSR-safe · TypeScript-first · Inspired by VueUse
 
 Adopted by **Shopee** · **PDD** · **Ctrip**
 
-Latest: MCP support, Astro migration, useWakeLock
+Latest: <img src="https://img.shields.io/npm/v/@reactuses/core?style=flat-square&label=npm&labelColor=0D1117&color=BF91F3" alt="latest npm version" valign="middle"> · MCP support · per-module dist
 
 </td>
 <td width="50%" valign="top">
 
-### [pareto](https://github.com/childrentime/pareto) `⭐ 70`
+### [pareto](https://github.com/childrentime/pareto) <img src="https://img.shields.io/github/stars/childrentime/pareto?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle">
 > *80% of the results, 20% of the effort. An engineer's philosophy made code.*
 
 Recently added benchmark suite with CI multi-run aggregation.
