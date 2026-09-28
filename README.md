@@ -1,118 +1,34 @@
-<div align="center">
+# Lianwen Wu
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Berlin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=H5%20Craftsperson%20%C2%B7%20Open%20Source%20Wanderer%20%C2%B7%20Curiosity-Driven&descSize=15&descAlignY=55" width="100%"/>
+Independent software maker in Shanghai. I build focused iOS apps and open-source tools.
 
-<a href="https://github.com/childrentime">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&repeat=true&width=550&height=50&lines=%E4%B8%8A%E6%B5%B7+%C2%B7+31.23%C2%B0N+121.47%C2%B0E;Be+Positive+%F0%9F%98%98;%ED%95%9C%EA%B5%AD%EC%96%B4+%EA%B3%B5%EB%B6%80+%EC%A4%91...+%F0%9F%87%B0%F0%9F%87%B7;Digital+%E6%A5%9A%E6%B2%B3%E6%B1%89%E7%95%8C+%E2%99%9F%EF%B8%8F;git+push+origin+main+%E2%9C%A8" />
-</a>
+[Website](https://lianwenwu.me/) · [Email](mailto:wul55267@gmail.com)
 
-</div>
-
-> ```
-> 🔬 FIELD REPORT #58261676
-> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-> Subject    : Berlin
-> Location   : Shanghai, China 🇨🇳
-> Species    : Homo Developicus · H5 Subspecies
-> Threat Lvl : Friendly (unless you hardcode secrets)
-> Status     : Actively curious about everything
-> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-> Notes: Subject exhibits an unusual breadth of interests
-> for their species. Approach with curiosity.
-> ```
-
----
-
-## 🧬 SKILL SCAN
-
-```
-┌────────────────────────────────────────────────────────┐
-│                                                        │
-│  H5 / Interactive Web  ████████████████████  99  🎨   │
-│  React Ecosystem       ██████████████████░░  92  ⚛️    │
-│  Browser APIs          █████████████████░░░  88  🌐   │
-│  TypeScript            ████████████████░░░░  82  📝   │
-│  Open Source           ██████████████████░░  90  🌱   │
-│  Korean                ████░░░░░░░░░░░░░░░░  22  🇰🇷   │
-│                                                        │
-│  ⚠️  WARNING: Coffee dependency detected               │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🌍 OPEN SOURCE FOOTPRINTS
-
-> *Not just building my own things — I wander into other people's codebases too.*
-
-| Project | What I Did |
-|---------|-----------|
-| [**Immer**](https://github.com/immerjs/immer) <img src="https://img.shields.io/github/stars/immerjs/immer?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | **Pioneered the entire Chinese documentation** — wrote it from scratch |
-| [**xterm.js**](https://github.com/xtermjs/xterm.js) <img src="https://img.shields.io/github/stars/xtermjs/xterm.js?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Replaced getOption/setOption API, fixed marker offset |
-| [**React**](https://github.com/facebook/react) <img src="https://img.shields.io/github/stars/facebook/react?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Translated part of the Chinese docs |
-| [**Arco Design Mobile**](https://github.com/arco-design/arco-design-mobile) <img src="https://img.shields.io/github/stars/arco-design/arco-design-mobile?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Fixed Ellipsis reflow bug |
-| [**Rspress**](https://github.com/web-infra-dev/rspress) <img src="https://img.shields.io/github/stars/web-infra-dev/rspress?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Custom home footer feature |
-| [**React Live**](https://github.com/FormidableLabs/react-live) <img src="https://img.shields.io/github/stars/FormidableLabs/react-live?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Fixed wrapReturn transform |
-| [**DefinitelyTyped**](https://github.com/DefinitelyTyped/DefinitelyTyped) <img src="https://img.shields.io/github/stars/DefinitelyTyped/DefinitelyTyped?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle"> | Added Node.js net entryType |
-
----
-
-## ⚔️ THINGS I BUILT
+## Apps
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### [reactuse](https://github.com/childrentime/reactuse) <img src="https://img.shields.io/github/stars/childrentime/reactuse?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle">
-> *115+ React Hooks. The whole kitchen sink, but type-safe and tree-shakable.*
-
-SSR-safe · TypeScript-first · Inspired by VueUse
-
-Adopted by **Shopee** · **PDD** · **Ctrip**
-
-Latest: <img src="https://img.shields.io/npm/v/@reactuses/core?style=flat-square&label=npm&labelColor=0D1117&color=BF91F3" alt="latest npm version" valign="middle"> · MCP support · per-module dist
-
-</td>
-<td width="50%" valign="top">
-
-### [pareto](https://github.com/childrentime/pareto) <img src="https://img.shields.io/github/stars/childrentime/pareto?style=flat-square&label=%E2%AD%90&labelColor=0D1117&color=70A5FD" alt="stars" valign="middle">
-> *80% of the results, 20% of the effort. An engineer's philosophy made code.*
-
-Recently added benchmark suite with CI multi-run aggregation.
-
-Because if you can't measure it, does it even exist?
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/unscript.jpg" width="56" alt="Unscript app icon" />
+      <h3>Unscript · 脱稿</h3>
+      <p>同一段真实英语对话练四遍，提示逐步减少，直到真正脱稿说出来。</p>
+      <p><sub>562 段对话 · 端上语音识别 · 无需账号</sub></p>
+      <a href="https://hintlib.com/">官网</a> · <a href="https://apps.apple.com/app/id6803985536">App Store</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/cenno.jpg" width="56" alt="Cenno app icon" />
+      <h3>Cenno</h3>
+      <p>快速记录支出、预算与净资产。数据留在设备与自己的 iCloud，不上传服务器。</p>
+      <p><sub>三秒记一笔 · 无广告 · 导出永久免费</sub></p>
+      <a href="https://cenno.app/">官网</a> · <a href="https://apps.apple.com/app/id6760214754">App Store</a>
+    </td>
+  </tr>
 </table>
 
----
+## Open source
 
-## 📊 STATS
+- [**reactuse**](https://github.com/childrentime/reactuse) — 115+ production-ready React Hooks
+- [**pareto**](https://github.com/childrentime/pareto) — streaming-first React framework
+- [**gotsx**](https://github.com/childrentime/gotsx) — compile TSX server components to Go
 
-<div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=childrentime&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=childrentime&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FFFFFF" width="95%"/>
-</div>
-
----
-
-<div align="center">
-
-📫 [wul55267@gmail.com](mailto:wul55267@gmail.com) · Shanghai, China
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=childrentime&color=70A5FD&style=for-the-badge&label=VISITORS" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:BF91F3&height=120&section=footer" width="100%"/>
-
-</div>
+I also contributed to [Immer](https://github.com/immerjs/immer), [React](https://github.com/facebook/react), [xterm.js](https://github.com/xtermjs/xterm.js), [Rspress](https://github.com/web-infra-dev/rspress), and other open-source projects.
